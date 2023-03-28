@@ -3,6 +3,7 @@ My Awesome Project
 The portfolio talks about my background as a software engineer and the finance industry. Towards the end you will find projects that i have worked on. 
 
 Link to project: https://jessica-bowne-portfolio.netlify.app/
+<img src="images/JB.png">
 
 alt tag
 
