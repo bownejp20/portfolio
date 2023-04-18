@@ -5,7 +5,6 @@ The portfolio talks about my background as a software engineer and the finance i
 Link to project: https://jessica-bowne-portfolio.netlify.app/
 <img src="images/JB.png">
 
-alt tag
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, 
